@@ -1,0 +1,16 @@
+Current version 0.01b
+Updates from core version
+Added:
+-support opengl
+-debug mode
+-TweakBar debug interface
+-Sprite command interface
+-Instruction command interface
+-Instructiom console interface
+-Phong reflection model
+-Perspective camera updated
+-Input handlers;  allows you to control the graphics interface
+-C++ source updated
+-Objects buffer;  lets you add more than one object to the scene
+-Lights buffer, lets you add more than one light to the scene
+-Support for x86 and x64 microprocessors
